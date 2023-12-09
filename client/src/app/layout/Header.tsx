@@ -6,6 +6,7 @@ const midLinks = [
     {title: 'catalog', path: '/catalog'},
     {title: 'about', path: '/about'},
     {title: 'contact', path: '/contact'},
+    {title: 'error', path: '/error'},
 ]
 
 const rightLinks = [
